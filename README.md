@@ -1,0 +1,1 @@
+Full stuck website built with MongoDB, Mongoose, Apollo-Server, React and GraphQL to demonstrate my skills with this particular stack. 
